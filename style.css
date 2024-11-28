@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+  }
+  h1 {
+    font-size: 44px;
+  }
+  
+  .meme {
+    width: 80%;
+    
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+    color: white;
+    font-family: "Libre Baskerville", serif;
+    text-align: center;
+  }
+  
+  .vejce-img {
+    border: 3px solid white;
+    width: 100%;
+  }
